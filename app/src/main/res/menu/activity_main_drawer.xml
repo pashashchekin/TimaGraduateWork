@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Фото" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Видео" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_audio"
+            android:title="Аудио"
+            />
+
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/ic_document"
+            android:title="Документы"
+            />
+    </group>
+
+
+</menu>

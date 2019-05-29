@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618352510766",
+    "firebase_url": "https://timakotlin.firebaseio.com",
+    "project_id": "timakotlin",
+    "storage_bucket": "timakotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618352510766:android:e200cf053e4b4657",
+        "android_client_info": {
+          "package_name": "com.somnium.graduateworktima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618352510766-p7eg9v7blujgs1ltt8f7amuoh9enu2e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.somnium.graduateworktima",
+            "certificate_hash": "dc2aaaad923e2fe2ba4230849ee69e7f71d9d00c"
+          }
+        },
+        {
+          "client_id": "618352510766-leutf6i519tqmd6c2arnt8tul7vui5h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BI4nJAG5WAPKgU2Gku1VSiH-G8sItfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618352510766-leutf6i519tqmd6c2arnt8tul7vui5h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

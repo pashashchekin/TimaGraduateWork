@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item_photo"
+        android:icon="@drawable/ic_photo_selector"
+        android:title=""/>
+    <item
+        android:id="@+id/nav_item_video"
+        android:icon="@drawable/ic_video_selector"
+        android:title=""/>
+    <item
+        android:id="@+id/nav_item_audio"
+        android:icon="@drawable/ic_audio_selector"
+        android:title=""/>
+    <item
+        android:id="@+id/nav_item_document"
+        android:icon="@drawable/ic_document_selector"
+        android:title=""/>
+</menu>
